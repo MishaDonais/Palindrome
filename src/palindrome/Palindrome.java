@@ -35,6 +35,5 @@ public class Palindrome {
         //Otherwise, output that it is not a palindrome
         else{
             JOptionPane.showMessageDialog(null, "This is not palindrome", "Message", JOptionPane.INFORMATION_MESSAGE);
-    
 }
 }
